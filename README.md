@@ -1,6 +1,5 @@
 # BitManip Extension project
 
-This is forked repository of [BitManip Extension](https://gitlab.com/mindgrove1/shakti/bboxStudents). 
 
 ### Bit-Manipulation Extensions
 
