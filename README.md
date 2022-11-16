@@ -1,5 +1,6 @@
 # BitManip Extension project
 
+This is the course project of CS6230: CAD for VLSI, Dept. of CSE, IIT Madras, with the aim of implementing a ratified RISCV Bit Manipulation Instruction Set in Bluespec and verification using COCOTb module in Python
 
 ### Bit-Manipulation Extensions
 
